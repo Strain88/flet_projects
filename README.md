@@ -5,5 +5,5 @@
 -----  
 Here is the list
 
-1. Wallet App using the Flet Liabrary  
-2. App #2
+1. Wallet App 
+2. Music Player App
